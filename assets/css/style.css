@@ -23,6 +23,7 @@ html {
     height: 100%;
     font-family: 'Lato', sans-serif;
     line-height: 1.25em;
+    overflow: auto;
 }
 
 header > h1{
